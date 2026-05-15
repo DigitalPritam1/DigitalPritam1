@@ -66,7 +66,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <strong>Professional Email:</strong> <a href="mailto:contact@digitalpritam.in">contact@digitalpritam.in</a><br>
+  <strong>Email:</strong> <a href="mailto:contact@digitalpritam.in">contact@digitalpritam.in</a><br>
   <strong>Website:</strong> <a href="https://www.digitalpritam.in">digitalpritam.in</a><br>
   <strong>YouTube:</strong> <a href="https://youtube.com/DigitalPritam">@DigitalPritam</a><br>
   <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/pritamsonone">pritamsonone</a>
