@@ -4,21 +4,26 @@
   <h1>Hey, I'm Pritam Sonone 👋</h1>
   <p><strong>WordPress Core Contributor</strong> • AgriTech Creator • AI & Automation Builder • YouTuber & Speaker</p>
 
-  <a href="https://www.digitalpritam.in">
-    <img src="https://img.shields.io/badge/Website-digitalpritam.in-0A66C2?style=for-the-badge&logo=web&logoColor=white" alt="Website"/>
-  </a>
-  <a href="mailto:contact@digitalpritam.in">
-    <img src="https://img.shields.io/badge/Email-contact@digitalpritam.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://youtube.com/DigitalPritam">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://linkedin.com/in/pritamsonone">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/sponsors/DigitalPritam1">
-    <img src="https://img.shields.io/badge/Sponsor%20My%20Work-%231EAEDB?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor"/>
-  </a>
+  <p align="center">
+    <a href="https://www.digitalpritam.in">
+      <img src="https://img.shields.io/badge/Website-digitalpritam.in-0A66C2?style=for-the-badge&logo=web&logoColor=white" alt="Website"/>
+    </a>
+    <a href="mailto:contact@digitalpritam.in">
+      <img src="https://img.shields.io/badge/Email-contact@digitalpritam.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://youtube.com/DigitalPritam">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+    <a href="https://linkedin.com/in/pritamsonone">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/sponsors/DigitalPritam1">
+      <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%231EAEDB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsor"/>
+    </a>
+    <a href="https://paypal.me/amhikastkar">
+      <img src="https://img.shields.io/badge/Donate%20on%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+    </a>
+  </p>
 </div>
 
 ---
@@ -52,7 +57,7 @@ As a WordCamp Speaker and Josh Talks speaker, I enjoy sharing my journey of buil
 - SmartUsername: WordPress security plugin I developed
 - AI & Automation Tools: Building smart solutions for creators and businesses
 - Blogging & SEO: Actively mentoring creators in content growth and monetization
-- Public Speaker: Multiple WordCamps (Asia 2026, Kolhapur 2025 and others) and Josh Talks
+- Public Speaker: Multiple WordCamps and Josh Talks
 
 ---
 
@@ -68,13 +73,19 @@ As a WordCamp Speaker and Josh Talks speaker, I enjoy sharing my journey of buil
 
 ---
 
-### Let's Connect
+### Let's Connect & Support
 
-**Professional Email**: [contact@digitalpritam.in](mailto:contact@digitalpritam.in)  
-**Website & Blog**: [digitalpritam.in](https://www.digitalpritam.in)  
-**YouTube**: [@DigitalPritam](https://youtube.com/DigitalPritam)  
-**LinkedIn**: [pritamsonone](https://linkedin.com/in/pritamsonone)  
-**GitHub Sponsors**: [Support My Work](https://github.com/sponsors/DigitalPritam1)
+<p align="center">
+  <strong>Professional Email:</strong> <a href="mailto:contact@digitalpritam.in">contact@digitalpritam.in</a><br>
+  <strong>Website & Blog:</strong> <a href="https://www.digitalpritam.in">digitalpritam.in</a><br>
+  <strong>YouTube:</strong> <a href="https://youtube.com/DigitalPritam">@DigitalPritam</a><br>
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/pritamsonone">pritamsonone</a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/sponsors/DigitalPritam1"><strong>Sponsor on GitHub</strong></a> • 
+  <a href="https://paypal.me/amhikastkar"><strong>Donate via PayPal</strong></a>
+</div>
 
 ---
 
