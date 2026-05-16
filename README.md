@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/DigitalPritam1/DigitalPritam1/blob/main/banner.png" width="100%" style="border-radius: 12px;" alt="Pritam Sonone Banner"/>
   
   <h1>Hey, I'm Pritam Sonone 👋</h1>
   <p><strong>WordPress Core Contributor</strong> • AgriTech Creator • AI & Automation Builder • YouTuber & Speaker</p>
@@ -90,6 +89,7 @@ As a WordCamp Speaker and Josh Talks speaker, I enjoy sharing my journey of buil
 ---
 
 <div align="center">
+    <img src="https://github.com/DigitalPritam1/DigitalPritam1/blob/main/banner.png" width="100%" style="border-radius: 12px;" alt="Pritam Sonone Banner"/>
   <strong>Building practical tools • Sharing knowledge • Speaking on technology and growth</strong><br><br>
   <i>Where Agriculture, AI, WordPress, and Digital Creation come together.</i>
 </div>
